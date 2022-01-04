@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 71.193.250.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641263914795
+  login: 1641263078310
+money: '0'
+last-account-name: HumanFingerMan
+logoutlocation:
+  world: 0c6074ca-ed7a-4949-a051-9f5437b907c0
+  world-name: world
+  x: 8752.752609229874
+  y: 63.0
+  z: 943.8597586767039
+  yaw: -87.88775634765625
+  pitch: 18.600013732910156

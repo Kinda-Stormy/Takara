@@ -1,0 +1,10 @@
+configuration:
+    enablePlugin: 'True' #If you don't want the plugin to work, like if you are configuring it.
+    language: 'English'    
+    joinMessage: '&8[&A+&8] &7%player_name%'
+    leaveMessage: '&8[&C-&8] &7%player_name%'
+    joinTitle: '&6☀ &eTakara' # If you wish to not have a title, just get rid of the text, but leave the 2 ''
+    joinSubtitle: '&7&oTakarans.aternos.me' # Subtitle is below the main title
+    joinSound: 'BLOCK.END_PORTAL_FRAME.FILL'    
+
+    # If you need any support, look at the documentation, and if that does not help, join my Discord! https://docs.joinleavemessages.ga/ | https://discord.gg/JAEVGPeYm5

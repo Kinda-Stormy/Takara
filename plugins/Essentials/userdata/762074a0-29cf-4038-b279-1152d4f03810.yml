@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 10.0.0.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641262745055
+  login: 1641262813157
+money: '0'
+logoutlocation:
+  world: 0c6074ca-ed7a-4949-a051-9f5437b907c0
+  world-name: world
+  x: 8390.709623975212
+  y: 90.86208659882377
+  z: 796.801668991583
+  yaw: -86.764892578125
+  pitch: 17.826675415039062
+last-account-name: gravitygoesdown

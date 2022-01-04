@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "6b05be63-2762-450a-ad3a-4a72d2941df8",
+    "name": "AAPauzed",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c122c7e0-1caf-400a-886d-a4d2a195a659",
+    "name": "August_Wesley",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "762074a0-29cf-4038-b279-1152d4f03810",
+    "name": "gravitygoesdown",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d92473b1-eae9-45ae-bba8-5238593f81e6",
+    "name": "Splz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.25.79.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1641262745077
+  login: 1641262796836
+money: '0'
+logoutlocation:
+  world: 0c6074ca-ed7a-4949-a051-9f5437b907c0
+  world-name: world
+  x: 8308.300000011921
+  y: 59.0
+  z: 841.3000000119209
+  yaw: 99.67227172851562
+  pitch: 81.99343872070312
+last-account-name: Baaron1
+lastlocation:
+  world: 0c6074ca-ed7a-4949-a051-9f5437b907c0
+  world-name: world
+  x: 8277.129714393033
+  y: 49.25220334025373
+  z: 857.7625697498635
+  yaw: 108.09304809570312
+  pitch: 13.729816436767578

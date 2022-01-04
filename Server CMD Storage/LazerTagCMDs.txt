@@ -1,0 +1,11 @@
+Blue Team
+/give @p crossbow{Unbreakable:1,CustomModelData:2,AttributeModifiers:[{AttributeName:"generic.movement_speed",Amount:0.15,Slot:mainhand,Name:"generic.movement_speed",UUID:[I;-1211128,32000,163658,-64000]}],display:{Name:'[{"text":"Blue Team Lazer Gun","italic":false,"color":"#66ccff","bold":true}]',Lore:['[{"text":"Shoot People in Lazer Tag","italic":true,"color":"gray"}]']},Enchantments:[{id:infinity,lvl:1},{id:quick_charge,lvl:4}],HideFlags:101} 1
+
+Red Team
+/give @p crossbow{Unbreakable:1,CustomModelData:2,AttributeModifiers:[{AttributeName:"generic.movement_speed",Amount:0.15,Slot:mainhand,Name:"generic.movement_speed",UUID:[I;-1211128,32800,163658,-65600]}],display:{Name:'[{"text":"Red Team Lazer Gun","italic":false,"color":"#ff3300","bold":true}]',Lore:['[{"text":"Shoot People in Lazer Tag","italic":true,"color":"gray"}]']},Enchantments:[{id:infinity,lvl:1},{id:quick_charge,lvl:4}],HideFlags:101} 1
+
+Blue Arrows
+/give @p tipped_arrow{CustomPotionColor:41727,display:{Name:'[{"text":"Blue Team Lazers","italic":false,"color":"#66ccff","bold":true}]',Lore:['[{"text":"Go shoot some kids","color":"gray"}]']},CustomPotionEffects:[{Id:2,Duration:3,Amplifier:15,ShowParticles:0b,ShowIcon:0b}]} 1
+
+Red Arrows
+/give @p tipped_arrow{CustomPotionColor:16711680,display:{Name:'[{"text":"Red Team Lazers","italic":false,"color":"#ff3300","bold":true}]',Lore:['[{"text":"Go shoot some kids","color":"gray"}]']},CustomPotionEffects:[{Id:2,Duration:3,Amplifier:15,ShowParticles:0b,ShowIcon:0b}]} 1
